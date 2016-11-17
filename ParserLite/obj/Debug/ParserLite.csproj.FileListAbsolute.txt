@@ -1,0 +1,18 @@
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\bin\Debug\ParserLite.exe.config
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\bin\Debug\ParserLite.exe
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\bin\Debug\ParserLite.pdb
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\obj\Debug\ParserLite.csprojResolveAssemblyReference.cache
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\obj\Debug\ParserLite.Form1.resources
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\obj\Debug\ParserLite.Properties.Resources.resources
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\obj\Debug\ParserLite.csproj.GenerateResource.Cache
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\obj\Debug\ParserLite.exe
+c:\users\mova_sa\documents\visual studio 2015\Projects\ParserLite\ParserLite\obj\Debug\ParserLite.pdb
+H:\progs\itlive\Lite\ParserLite\bin\Debug\ParserLite.exe.config
+H:\progs\itlive\Lite\ParserLite\obj\Debug\ParserLite.exe
+H:\progs\itlive\Lite\ParserLite\obj\Debug\ParserLite.pdb
+H:\progs\itlive\Lite\ParserLite\bin\Debug\ParserLite.exe
+H:\progs\itlive\Lite\ParserLite\bin\Debug\ParserLite.pdb
+H:\progs\itlive\Lite\ParserLite\obj\Debug\ParserLite.csprojResolveAssemblyReference.cache
+H:\progs\itlive\Lite\ParserLite\obj\Debug\ParserLite.MainForm.resources
+H:\progs\itlive\Lite\ParserLite\obj\Debug\ParserLite.Properties.Resources.resources
+H:\progs\itlive\Lite\ParserLite\obj\Debug\ParserLite.csproj.GenerateResource.Cache
